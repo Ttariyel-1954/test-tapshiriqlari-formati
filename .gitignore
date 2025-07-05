@@ -1,0 +1,18 @@
+# R faylları
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Mac faylları
+.DS_Store
+
+# RStudio faylları
+.Rproj.user/
+*.Rproj
+
+# Shiny logs
+*.log
+
+# Temporary files
+*~
