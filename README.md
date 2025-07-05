@@ -11,7 +11,9 @@ Bu interaktiv Shiny tətbiqi müxtəlif test formatlarını nümayiş etdirir v�
 - 📥 CSV eksport funksiyası
 
 ## 🚀 Demo
-Canlı demo: [https://royatalibova.shinyapps.io/test-formatlari/](https://royatalibova.shinyapps.io/test-formatlari/)
+Canlı demo: [Tətbiqi Burada İşlədin](https://t01061954.shinyapps.io/test-formatlari/)
+## 📂 GitHub Repository  
+[Kodlara baxın](https://github.com/Ttariyel-1954/test-tapshiriqlari-formati)
 
 ## 💻 Lokal İstifadə
 ```r
